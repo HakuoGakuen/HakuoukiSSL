@@ -16,6 +16,8 @@ A basic **tech guide for installation** can be found [here](https://docs.google.
 
 An English **Cheat Sheet**, which contains translations for vital sections of the game that could not be edited by our team, can be found [here](https://docs.google.com/document/d/14mwXNN0Yr5w5QOdgfkgiQgQbk2QM7QQs2Zb2Y-jgydE). If you ever find yourself faced with unknown Japanese text in SSL, check the Cheat Sheet before panicking!
 
+Follow our [tumblr](https://hakuogakuen.tumblr.com/) for updates and information, as well as full text translations of the routes!
+
 ### Patch Preview
 ![current available scripts](https://github.com/HakuoGakuen/HakuoGakuen/blob/main/images/ssl_preview_1.png)
 ![current available scripts](https://github.com/HakuoGakuen/HakuoGakuen/blob/main/images/ssl_preview_2.png)
