@@ -8,6 +8,8 @@ Below is the essential information on the patch:
 
 **DISCLAIMER:** This is a fan-made patch associated with the Otogelib community, produced for free and intended for free, unrestricted distribution. No member of the team has or will ever benefit financially from this patch. The mod team is in no way affiliated with Otomate, Idea Factory, CriWare, or any of the other producers of the original game. We do not claim any form of ownership over the *Hakuouki SSL: Sweet School Life* intellectual property. This patch, though free for international download, is in no way meant to encourage piracy of *Hakuouki SSL: Sweet School Life*. We encourage you to purchase a copy of the game to show your support for its original creators. 
 
+**If you have the time, we'd love if you could fill out this optional [survey](https://forms.gle/qtRpbuxkKsDg3ZYy8)! We would love to hear from you.**
+
 The **FAQ** for the SSL English patch can be found [here](https://docs.google.com/document/d/10XdqLGyPrLjtMaip5bgu8ttlT2OYw9nfTGpIqDcX_8w).
 
 A basic **tech guide for installation** can be found [here](https://docs.google.com/document/d/1AYXDBBD6GTnDk_fBdjlabYx-524N2Ah27UuYoaWcd1Y).
