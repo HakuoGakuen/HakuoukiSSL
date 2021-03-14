@@ -27,10 +27,12 @@ An English **Cheat Sheet**, which contains translations for vital sections of th
 - Promotional Countdown Illustration: Pearlie (Meg) & yuugs 
 - Github Programming and Design: skymakable & jaosy
 
-### LINKS
+### Join Otogelib!
 Interested in learning about/joining future translation projects? Join the Otogelib community via the links below. Curious about the plain text and video versions of the SSL Mod, have questions, or just want to send a message to the creators of this mod? Check out the SSL Tumblr blog!
 
 - Otogelib: [Twitter](https://twitter.com/otogelib?lang=en), [Tumblr](https://otogelib.tumblr.com/), [FuwaNovels](https://forums.fuwanovel.net/topic/23370-fan-translation-otogelib%E2%80%94various-vita-otome-games-translations-community-project/), [Reddit](https://www.reddit.com/r/otomegames/comments/dcvpw2/otogeliba_new_community_otome_game_fan/)
 - SSL Project: [Tumblr](https://hakuogakuen.tumblr.com/) 
 
-
+![otogelib process](https://github.com/HakuoGakuen/HakuoGakuen/blob/main/images/otogelib_process.jpg)
+![current available scripts](https://github.com/HakuoGakuen/HakuoGakuen/blob/main/images/otogelib_available_scripts.jpg)
+![otogelib example](https://github.com/HakuoGakuen/HakuoGakuen/blob/main/images/otogelib_examples.jpg)
