@@ -25,15 +25,15 @@ Follow our [tumblr](https://hakuogakuen.tumblr.com/) for updates and information
 
 
 ### Team Members
-- Otogelib Leader: Reishiki
-- Programming/Hacking: [DC] 
-- Project Leads: shizuumi151 & yuugs
-- Translation: jokertrap-ran, kumoriyami-xuizhen, yuugs, shizuumi151, dei-hime, & minib0ss
-- Proofreading: kuririn, shizuumi151, yuugs, dei-hime, KittenSparkles, Sloth, JuliaO, & Maimaiotome
-- Image Editing: Maimaiotome, yuugs, & shizuumi151
-- Beta Testing: Eishelin, kuririn, nephthys, Lord Pudi, Hermy, Maimaiotome, shizuumi151, yuugs, Yona, Sasaruga, Pearlie (Meg), Animealice, V, rabbit, Nitaoly, & Alexaa
-- Promotional Countdown Illustration: Pearlie (Meg) & yuugs 
-- Github Programming and Design: skymakable & jaosy
+- **Otogelib Leader:** Reishiki
+- **Programming/Hacking:** [DC] 
+- **Project Leads:** shizuumi151 & yuugs
+- **Translation:** jokertrap-ran, kumoriyami-xuizhen, yuugs, shizuumi151, dei-hime, & minib0ss
+- **Proofreading:** kuririn, shizuumi151, yuugs, dei-hime, KittenSparkles, Sloth, JuliaO, & Maimaiotome
+- **Image Editing:** Maimaiotome, yuugs, & shizuumi151
+- **Beta Testing:** Eishelin, kuririn, nephthys, Lord Pudi, Hermy, Maimaiotome, shizuumi151, yuugs, Yona, Sasaruga, Pearlie (Meg), Animealice, V, rabbit, Nitaoly, & Alexaa
+- **Promotional Countdown Illustration:** Pearlie (Meg) & yuugs 
+- **Github Programming and Design:** skymakable & jaosy
 
 ### Join Otogelib!
 Interested in learning about/joining future translation projects? Join the Otogelib community via the links below. Curious about the plain text and video versions of the SSL Mod, have questions, or just want to send a message to the creators of this mod? Check out the SSL Tumblr blog!
